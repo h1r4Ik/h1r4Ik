@@ -17,7 +17,6 @@ I'm a passionate developer with a love for creating innovative solutions and lea
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 
 ---
