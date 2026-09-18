@@ -27,13 +27,17 @@ I'm a passionate developer with a love for creating innovative solutions and lea
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hardikm1410&theme=radical)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardikm1410&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikm1410&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ---
 
 ### 📈 Activity Graph
 
-[![Hardik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hardikm1410&theme=react-dark)](https://github.com/hardikm1410)
+<a href="https://github.com/hardikm1410">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hardikm1410&theme=react-dark" alt="Hardik's GitHub activity graph" />
+</a>
 
 ---
 
