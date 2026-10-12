@@ -56,6 +56,24 @@
     </td>
   </tr>
   <tr>
+       <td width="50%" valign="top">
+      <h4>Backend & APIs ⚙️</h4>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Mobile & Desktop App Dev 📱💻</h4>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+      <img src="https://img.shields.io/badge/Desktop_App_Dev-4A154B?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+  <tr>
     <td width="50%" valign="top">
       <h4>Cloud & Deployment ☁️</h4>
       <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
